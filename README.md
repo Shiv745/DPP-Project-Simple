@@ -1,5 +1,7 @@
 # DPP-Project-Simple
 
+DPP Project Simple
+
 ## Digital Product Passport & ML Circularity Assessment System
 
 A complete student-friendly prototype with Docker deployment support!
